@@ -3,7 +3,7 @@
 System.register([], function (_export, _context) {
   "use strict";
 
-  var HelloWorld;
+  var OferPlugin;
 
   function _classCallCheck(instance, Constructor) {
     if (!(instance instanceof Constructor)) {
@@ -14,11 +14,11 @@ System.register([], function (_export, _context) {
   return {
     setters: [],
     execute: function () {
-      _export("HelloWorld", HelloWorld = function HelloWorld() {
-        _classCallCheck(this, HelloWorld);
+      _export("OferPlugin", OferPlugin = function OferPlugin() {
+        _classCallCheck(this, OferPlugin);
       });
 
-      _export("HelloWorld", HelloWorld);
+      _export("OferPlugin", OferPlugin);
     }
   };
 });

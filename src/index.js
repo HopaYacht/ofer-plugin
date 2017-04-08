@@ -1,3 +1,5 @@
+export * from './ofer-plugin';
+
 export function configure(config) {
-  config.globalResources('./hello-world');
+  config.globalResources('./ofer-plugin');
 }

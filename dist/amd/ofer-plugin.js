@@ -11,7 +11,7 @@ define(["exports"], function (exports) {
     }
   }
 
-  var HelloWorld = exports.HelloWorld = function HelloWorld() {
-    _classCallCheck(this, HelloWorld);
+  var OferPlugin = exports.OferPlugin = function OferPlugin() {
+    _classCallCheck(this, OferPlugin);
   };
 });

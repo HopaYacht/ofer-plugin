@@ -6,6 +6,6 @@ Object.defineProperty(exports, "__esModule", {
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-var HelloWorld = exports.HelloWorld = function HelloWorld() {
-  _classCallCheck(this, HelloWorld);
+var OferPlugin = exports.OferPlugin = function OferPlugin() {
+  _classCallCheck(this, OferPlugin);
 };

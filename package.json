@@ -1,5 +1,5 @@
 {
-  "name": "aurelia-skeleton-plugin",
+  "name": "ofer-plugin",
   "version": "1.0.1",
   "description": "A starter kit for building an Aurelia plugin.",
   "keywords": [
@@ -12,11 +12,11 @@
     "url": "https://github.com/aurelia/skeleton-plugin/issues"
   },
   "license": "CC0-1.0",
-  "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
+  "author": "Netanel Murciaco<rob@bluespire.com> (http://robeisenberg.com/)",
   "main": "dist/commonjs/index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/skeleton-plugin"
+    "url": "https://github.com/HopaYacht/ofer-plugin"
   },
   "devDependencies": {
     "aurelia-tools": "^1.0.0",
